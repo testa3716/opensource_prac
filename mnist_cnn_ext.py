@@ -19,7 +19,7 @@ import tensorflow as tf
 
 print(tf.__version__)
 
-batch_size = 128
+batch_size = 127
 num_classes = 10
 epochs = 12
 
