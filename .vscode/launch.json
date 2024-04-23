@@ -6,6 +6,7 @@
     "configurations": [
         
         
+        
 
 
 
@@ -13,7 +14,7 @@
 
         {
             "request": "launch",
-            "name": "Pyhon: 현재 파일 실행",
+            "name": "Python: 현재 파일 실행",
             "type": "python",
             "program": "${workspaceFolder}/main.ts",
             "cwd": "${workspaceFolder}",
